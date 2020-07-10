@@ -11,9 +11,22 @@ SCCM Client Msg, Server Msg, Provider Msg, default Win32 Errors, 0x8 Errors, Adv
 
 The Technet platform is no longer active. That's why I moved my solution to Github.  
 Old Link technet ==> <https://gallery.technet.microsoft.com/SCCM-List-of-State-Message-864851d0>  
-new Link github  ==> <https://github.com/KlausBilger/SCCM_MsgID>    
+new Link github  ==> <https://github.com/KlausBilger/SCCM_MsgID>  
  **II' very proud that the Technet platform has over 10,000 downloads.**  
+  
+&nbsp;
+&nbsp;
+  
+## about me  
 
+I live in Germany where I work as a Principal System Center Configuration Manager consultant.  
+I have been working with SMS since 1998 and as a trainer since 1992. my main Focus is System Center, SQL,  
+Reporting, OSD, Orchestrator and any Kind of automatization,  
+Application / Tool Development with C#, VB, PowerShell, T-SQL, VBS.  
+contact info klaus.bilger@c-s-l.biz  
+  
+&nbsp;
+&nbsp;
 
 ## Description
 
@@ -29,15 +42,14 @@ This includes the SCCM Client Msg, Server Msg, Provider Msg, default Win32 Error
 
 ConfigMgr, SCCM, windows updates, Configuration Manager, Center Configuration Manager, SCCM 2012, System Center 2012 Configuration Manager,
 SCCM Client Agents, SCCM 2012 R2, ConfigMgr Current Branch, MSI Return Codes
-
   
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-
+  
 ## reference  
-
+  
 Microsoft, Microsoft technet forums, Message DLL from SCCM
   
 &nbsp;
@@ -48,10 +60,10 @@ Microsoft, Microsoft technet forums, Message DLL from SCCM
 &nbsp;
 &nbsp;
 &nbsp;
-
+  
 ***  
 **Plattformen Support:**
-
+  
 |OS name    |Support|
 |---    |---  
 |Windows 10 |Y  
