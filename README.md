@@ -9,10 +9,10 @@ SCCM Client Msg, Server Msg, Provider Msg, default Win32 Errors, 0x8 Errors, Adv
 
 ## Technet Summary  
 
-The Technet platform is no longer active. That's why I moved my solution to Github.
-Old Link technet ==> <https://gallery.technet.microsoft.com/SCCM-List-of-State-Message-864851d0>
-new Link github  ==> <https://github.com/KlausBilger/SCCM_MsgID>  
- **II' very proud that the Technet platform has over 10,000 downloads.**
+The Technet platform is no longer active. That's why I moved my solution to Github.  
+Old Link technet ==> <https://gallery.technet.microsoft.com/SCCM-List-of-State-Message-864851d0>  
+new Link github  ==> <https://github.com/KlausBilger/SCCM_MsgID>    
+ **II' very proud that the Technet platform has over 10,000 downloads.**  
 
 
 ## Description
